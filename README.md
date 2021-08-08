@@ -9,7 +9,7 @@ This is the [Custom Enumerables](https://www.theodinproject.com/paths/full-stack
 
 ### Thoughts
 
-Tbd...
+Was a little hard to remember some of these concepts, since they recently added this lesson to the Ruby curriculum and I had to backtrack to complete it. Wasn't difficult though, and these were indeed great practice for working with blocks and procs! I'm especially grateful, since I felt a bit weak on these concepts. In the original lesson, they just breezed past them but didn't focus on them with any practice exercises.
 
 God bless.
 
